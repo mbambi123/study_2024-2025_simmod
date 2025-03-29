@@ -1,0 +1,7 @@
+\documentclass{beamer}
+\begin{document}
+\begin{frame}
+\frametitle{Ma diapositive}
+Voici le contenu de ma diapositive.
+\end{frame}
+\end{document}
